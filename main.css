@@ -1,0 +1,16 @@
+body {
+    background-color: white;
+    
+}
+p  {
+    color: red;
+    font-family: courier;
+    font-size: 160%;
+}
+.bg-image {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    height: 300px;
+    width: 300px;
+}
